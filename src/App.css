@@ -100,8 +100,8 @@ span {
 
 .donationAlert {
   position: absolute;
-  width: 53%;
-  height: 95%;
+  width: 45%;
+  height: 85%;
   transform: translate(-50%, -50%);
   left: 50%;
   top: 50%;
